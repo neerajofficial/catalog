@@ -1,0 +1,27 @@
+@import url('./assets/_settings.css');
+
+*,
+html {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {	
+	box-sizing: border-box;
+	font-family: var(--regular);
+	font-size: var(--default-size);
+	margin: 0;
+	padding: 0;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 2fr 1fr 100px;
+}
+
+.flex__space {
+	width: 50%;
+	display: flex;
+	justify-content: space-evenly;
+}

@@ -1,0 +1,19 @@
+@import url('./../../../assets/_settings.css');
+
+.slide {
+	position: absolute;
+	padding: 1rem 2rem;
+	right: 4rem;
+	font-size: 2rem;
+	cursor: pointer;
+}
+
+.container {
+	box-shadow: 2px 4px 8px 8px #FF184911;
+	padding: 0.5rem 1rem;
+	cursor: pointer;
+	width: 8rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}

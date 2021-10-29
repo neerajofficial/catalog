@@ -1,0 +1,16 @@
+:root {
+    /* Colors */
+    --primary-main: #FF1849;
+    --primary-light: #F3F3F3;
+    --primary-dark: #AA1849;
+    --secondary-main:  #999999;
+    --secondary-light: #b6b4b6;
+    --secondary-dark:#9F9F9F ;
+    --white-main: #ffffff;
+    
+    /* Fonts */
+    --regular: 'Open-sans';
+
+  /* Size */
+  --default-size: 16px;
+}

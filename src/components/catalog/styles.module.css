@@ -1,0 +1,14 @@
+@import url('./../../assets/_settings.css');
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 30rem;
+	width: 80%;
+}
+
+.image {
+	height: 100%;
+	width: 100%;
+}
